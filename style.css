@@ -1,0 +1,26 @@
+#container{
+    width: 680px;
+    height: 180px;
+    background-color: aqua;
+    margin: 10px auto;
+}
+body{
+    background-image:url(IMG/bg.png);
+    background-size: cover;
+}
+#ftPerfil{
+    width: 125px;
+    height: 125px;
+    border: 2px black solid;
+    border-radius: 75px;
+    margin: auto 10px;
+}
+#list{
+    opacity: 90%;
+    padding: 25px;
+    border-radius: 20px;
+    background-color:cornflowerblue;
+    height: auto;
+    width: 750;
+    margin: 75px 300px;
+}
